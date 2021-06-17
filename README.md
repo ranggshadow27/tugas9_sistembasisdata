@@ -1,28 +1,22 @@
 # Tugas9_SistemBasisData
 
-<b>Rangga Tito Prayogo - TI 19 B1</b>
+Rangga Tito Prayogo - TI 19 B1
+
+            Database :
+![image](https://user-images.githubusercontent.com/46300525/122334910-a3fedc00-cf64-11eb-9079-2b002e6f7e91.png)
+
+            Index :
+![image](https://user-images.githubusercontent.com/46300525/122334564-21761c80-cf64-11eb-8980-109879c43ef3.png)
+
+            Tambah Barang :
+![image](https://user-images.githubusercontent.com/46300525/122334636-3b176400-cf64-11eb-9329-89766ac3f8b6.png)
+![image](https://user-images.githubusercontent.com/46300525/122334678-4b2f4380-cf64-11eb-9fb6-e35b5606bd4f.png)
 
 
-<h2>Database :</h2>
-<img src="https://user-images.githubusercontent.com/46300525/121125301-8b017700-c850-11eb-9f26-cdae1dd9b0a4.png">
-<img src="https://user-images.githubusercontent.com/46300525/121124884-dcf5cd00-c84f-11eb-8a01-c6f4bc8b7c8f.png">
-
-<h2>Show Table:</h2>
-<img src="https://user-images.githubusercontent.com/46300525/121125375-ab313600-c850-11eb-9c02-43f3e0c307af.png">
-<img src="https://user-images.githubusercontent.com/46300525/121125430-be440600-c850-11eb-854f-3e34322c1663.png">
-
-<h2>Add:</h2>
-<img src="https://user-images.githubusercontent.com/46300525/121125560-f51a1c00-c850-11eb-92c1-c7cd6b93fb05.png">
-<img src="https://user-images.githubusercontent.com/46300525/121125590-0105de00-c851-11eb-932d-5aa5fc94312f.png">
-
-<h2>Update/Edit :</h2>
-<img src="https://user-images.githubusercontent.com/46300525/121125663-1b3fbc00-c851-11eb-8c81-71c53aed2e91.png">
-<img src="https://user-images.githubusercontent.com/46300525/121125698-2abf0500-c851-11eb-9aac-159a92a09e80.png">
-
-<h2>Delete :</h2>
-<img src="https://user-images.githubusercontent.com/46300525/121125717-36aac700-c851-11eb-95af-b687d6b73600.png">
-<img src="https://user-images.githubusercontent.com/46300525/121125734-40342f00-c851-11eb-8f2d-02fffd84e8ce.png">
-
-<b>Terimakasih Pak</b>
-
-
+            Update Barang :
+![image](https://user-images.githubusercontent.com/46300525/122334759-6a2dd580-cf64-11eb-9763-9f8435b1c284.png)
+![image](https://user-images.githubusercontent.com/46300525/122334791-71ed7a00-cf64-11eb-9602-2db1ba30a097.png)
+      
+            Delete Barang :
+![image](https://user-images.githubusercontent.com/46300525/122334815-7ca80f00-cf64-11eb-8699-49af83b8e964.png)
+![image](https://user-images.githubusercontent.com/46300525/122334858-8893d100-cf64-11eb-8440-970fd23f643d.png)
