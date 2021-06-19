@@ -16,11 +16,7 @@
     $distributor = "SELECT * FROM `data_distributor`";
     $printa = mysqli_query($conn, $detailbarang);
     $printb = mysqli_query($conn, $distributor);
-    
-    function is_select($var, $val) {
-        if ($var == $val) return 'selected="selected"';
-        return false;
-       }    
+        
 	?>
 </head>
 <body>
