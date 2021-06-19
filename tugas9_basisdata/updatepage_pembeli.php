@@ -12,11 +12,7 @@
 	$id = $_GET['id'];
 	$database = mysqli_query($conn,"SELECT * FROM data_pembeli WHERE id_pembeli='$id'");
     $d = mysqli_fetch_array($database);
-    
-    function is_select($var, $val) {
-        if ($var == $val) return 'selected="selected"';
-        return false;
-       }    
+
 	?>
 </head>
 <body>
